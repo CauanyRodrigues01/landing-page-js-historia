@@ -8,7 +8,8 @@ O site foi construído utilizando **HTML** e **CSS** para a estrutura e o design
 
 # 📌 Objetivo do Projeto
 
-Este site foi desenvolvido na **primeira aula de JavaScript** a pedido do professor **Zárak Barreto** em uma prazo de 1h-2h.  
+Este site foi desenvolvido na **primeira aula de JavaScript** a pedido do professor **Zárak Barreto** em uma prazo de 1h-2h.
+
 O objetivo foi **testar nossas habilidades de HTML e CSS**, aplicando conceitos fundamentais de estruturação de páginas, semântica e estilização.
 
 ---
