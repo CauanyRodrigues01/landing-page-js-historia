@@ -1,0 +1,71 @@
+/* ===========================================
+   DESIGN TOKENS COMPLETOS
+   =========================================== */
+:root {
+  
+  /* Cores principais de identidade */
+  --primary-color: #F7DF1E; 
+  --secondary-color: #00D9FF; 
+  --accent-color: #FF6B6B; 
+
+  /* Cores de bordas */
+  --border: #4D4D4F; 
+
+  /* Cores de texto */
+  --text-dark: #000;
+  --text-light: #fff; 
+  --text-title: #F7DF1E;
+
+  /* Cores de fundo */
+  --bg-dark: #0D0C11;
+  --bg-dark-light: #1B1A1F;
+  --bg-light: #E5E5E5;
+
+  /* Tipografia */
+  --font-family-primary: "Open Sans", sans-serif;
+  --font-family-secondary: "Fira Code", monospace;
+
+  /* Tamanhos de fonte - Regra do 8 (múltiplos de 8px) */
+  --text-xs: 0.5rem;     /* 8px */
+  --text-base: 1rem;       /* 16px */
+  --text-md: 1.25rem;    /* 20px */
+  --text-lg: 1.5rem;     /* 24px */
+  --text-xl: 2rem;       /* 32px */
+  --text-2xl: 2.5rem;    /* 40px */
+  --text-3xl: 3rem;       /* 48px */
+  
+  /* Pesos de fonte */
+  --font-weight-light: 300;
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+  
+  /* Espaçamentos - Regra do 8 (múltiplos de 8px) */
+  --space-xs: 0.5rem;    /* 8px */
+  --space-sm: 1rem;      /* 16px */
+  --space-md: 1.5rem;    /* 24px */
+  --space-lg: 2rem;      /* 32px */
+  --space-xl: 2.5rem;    /* 40px */
+  --space-2xl: 3rem;     /* 48px */
+  
+  /* Breakpoints para media queries */
+  --breakpoint-sm: 576px;    /* Mobile landscape */
+  --breakpoint-md: 768px;    /* Tablet portrait */
+  --breakpoint-lg: 992px;    /* Tablet landscape */
+  --breakpoint-xl: 1200px;   /* Desktop */
+  --breakpoint-2xl: 1400px;  /* Large desktop */
+  
+  /* Border radius */
+  --radius: 0.5rem;      /* 8px */
+  --radius-lg: 1rem;     /* 16px */
+  
+  /* Sombras */
+  --shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  --text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  
+  /* Transições */
+  --transition-fast: 150ms ease-in-out;
+  --transition-normal: 250ms ease-in-out;
+  --transition-slow: 350ms ease-in-out;
+}

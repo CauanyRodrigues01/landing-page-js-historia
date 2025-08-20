@@ -1,0 +1,47 @@
+/* ===== BOTÕES - COMPONENTES ===== */
+
+/* Base do botão */
+.btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: var(--space-xs) var(--space-sm);
+    border-radius: var(--radius-lg);
+    font-weight: var(--font-weight-normal);
+    border: 2px solid transparent;
+    cursor: pointer;
+    text-decoration: none;
+    font-family: inherit;
+    font-size: var(--font-size-base);
+    line-height: 1.5;
+    min-height: 44px; 
+    gap: var(--space-xs);
+}
+
+.btn:hover {
+    background-color: var(--secondary-color);
+    box-shadow: var(--shadow);
+    transform: translateY(-1px);
+}
+
+.btn-primary:active {
+    transform: translateY(0);
+    box-shadow: var(--shadow);
+}
+
+.btn:focus {
+    outline: 2px solid var(--accent-color);
+    outline-offset: 2px;
+}
+
+.btn:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+    pointer-events: none;
+}
+
+/* ===== BOTÃO PARA FUNDO CLARO ===== */
+.btn-primary {
+    background-color: var(--bg-light);
+    color: var(--text-dark);
+}
