@@ -12,6 +12,8 @@ Este site foi desenvolvido na **primeira aula de JavaScript** a pedido do profes
 
 O objetivo foi **testar nossas habilidades de HTML e CSS**, aplicando conceitos fundamentais de estruturação de páginas, semântica e estilização.
 
+Embora o foco fosse HTML e CSS, o tema sobre JavaScript foi escolhido para servir de introdução ao universo de desenvolvimento web dinâmico, preparando o terreno para os próximos aprendizados.
+
 ---
 
 ## 🚀 Sobre o Projeto
