@@ -1,4 +1,4 @@
-# Breve Histórico do JavaScript
+# 📚 Breve Histórico do JavaScript
 
 Este projeto é uma landing page que apresenta um breve histórico sobre a linguagem de programação **JavaScript**.
 
@@ -6,7 +6,7 @@ O site foi construído utilizando **HTML** e **CSS** para a estrutura e o design
 
 ---
 
-# 📚 Breve Histórico do JavaScript
+# 📌 Objetivo do Projeto
 
 Este site foi desenvolvido na **primeira aula de JavaScript** a pedido do professor **Zárak Barreto** em uma prazo de 1h-2h.  
 O objetivo foi **testar nossas habilidades de HTML e CSS**, aplicando conceitos fundamentais de estruturação de páginas, semântica e estilização.
