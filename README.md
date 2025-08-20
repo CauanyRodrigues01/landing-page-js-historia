@@ -8,7 +8,7 @@ O site foi construído utilizando **HTML** e **CSS** para a estrutura e o design
 
 # 📚 Breve Histórico do JavaScript
 
-Este site foi desenvolvido na **primeira aula de JavaScript** com o professor **Zárak Barreto**.  
+Este site foi desenvolvido na **primeira aula de JavaScript** a pedido do professor **Zárak Barreto** em uma prazo de 1h-2h.  
 O objetivo foi **testar nossas habilidades de HTML e CSS**, aplicando conceitos fundamentais de estruturação de páginas, semântica e estilização.
 
 ---
@@ -37,6 +37,7 @@ O site apresenta um resumo da história do **JavaScript**, explorando:
 ---
 
 ## 📷 Prévia do Projeto
+![cabeçalho e seção hero do projeto](design.png)
 
 ---
 
